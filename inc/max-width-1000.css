@@ -1,0 +1,130 @@
+#background-fix {
+  background-image: url('../images/laptop-designer-table1600.jpg');
+}
+
+header .img-inner {
+  height: 30px;
+  background: #fb9400;
+  position: relative;
+  top: 100px;
+}
+
+header .wrapper {
+  position: relative;
+  top: -30px;
+}
+
+header h1 {
+  padding: 0px;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+}
+
+header h1 a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: url('../images/logo.png') left center no-repeat;
+  background-size: contain;
+}
+
+nav#main-menu {
+  position: relative;
+	left: 0px;
+	top: 0px;
+	height: 100px;
+}
+
+nav#main-menu ul.menu li {
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+  text-transform:  uppercase;
+	height: 30px;
+	overflow: hidden;
+}
+
+nav#main-menu a {
+  text-decoration: none;
+  color: #FFF;
+  cursor: pointer;
+	padding: 7px 10px;
+	display: block;
+}
+
+nav#main-menu a:hover {
+  background-color: #444;
+	color: #fff;
+}
+
+
+footer .form-wrapper {
+  padding: 0 5%;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	line-height: 1.7em;
+}
+
+section.display article h2 {
+  font-size: 2.2em;
+  margin: 5% 5%;
+  width: 45%;
+}
+
+section.section-1 article h2 {
+  margin-top: 75px;
+}
+
+a.learn-more {
+  font-size: 1.5em;
+  margin: 5% 5%;
+}
+
+.info article {
+  padding: 0% 5%;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	line-height: 1.7em;
+	font-size: 1.3em;
+}
+
+.contact-services .checkbox-wrapper {
+  padding: 0% 0%;
+}
+
+.checkbox-wrapper div.web {
+	width: 50%;
+}
+
+.checkbox-wrapper div.creative {
+	width: 100%;
+	float: none;
+	clear: both;
+}
+
+.checkbox-wrapper div.print {
+	width: 50%;
+}
+
+footer .bottom .candy {
+	font-size: 1.5em;
+}
+
+/* article .gallery .col-3 {
+	padding: inherit;
+} */
+
+article .gallery .item {
+	width: 47.5%;
+	position: relative;
+	float: left;
+	padding-right: 4.5%;
+}
+
+article .gallery .even {
+	padding-right: 0;
+}
+
+

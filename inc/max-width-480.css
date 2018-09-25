@@ -1,0 +1,42 @@
+section.info {
+  background-image: none;
+  background-color: #fff;
+  
+}
+
+
+.contact-services .checkbox-wrapper {
+  padding: 0% 0%;
+}
+
+.checkbox-wrapper div.web {
+	width: 100%;
+	float: none;
+	clear: both;
+}
+
+.checkbox-wrapper div.creative {
+	width: 100%;
+	float: none;
+	clear: both;
+}
+
+.checkbox-wrapper div.print {
+	width: 100%;
+	float: none;
+	clear: both;
+}
+
+.form-item strong {
+  display: block;
+  text-align: center;
+}
+
+.form-wrapper input[type="submit"] {
+  width: 90%;
+  
+}
+
+footer .bottom .candy {
+	font-size: 1.1em;
+}

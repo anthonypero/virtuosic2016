@@ -1,0 +1,21 @@
+.contact-info div.contact-name {
+	width: 50%;
+}
+
+.contact-info div.contact-email {
+	width: 100%;
+  float: none;
+  clear: both;
+}
+
+.contact-info div.contact-phone {
+	width: 50%;
+}
+
+.form-wrapper .contact-phone .form-padding {
+  padding: 0 0 0 100px;
+}
+
+.checkbox-wrapper .checkbox {
+  font-size: .87em;
+}
